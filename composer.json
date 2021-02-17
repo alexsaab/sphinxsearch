@@ -1,14 +1,14 @@
 {
-  "name": "ptand/sphinxsearch",
-  "description": "Laravel package to query Sphinxsearch in Laravel",
+  "name": "alexsaab/sphinxsearch",
+  "description": "Laravel package to query Sphinxsearch in Laravel 6-8",
   "keywords": [
     "sphinx",
     "sphinxsearch",
     "laravel",
-    "laravel 6"
+    "laravel 7"
   ],
   "minimum-stability": "dev",
-  "homepage": "http://github.com/ptandDev/sphinxsearch",
+  "homepage": "http://github.com/alexsaab/sphinxsearch",
   "license": "Apache-2.0",
   "authors": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "require": {
-    "php": ">=5.3.0",
-    "illuminate/support": "~6.0",
+    "php": ">=7.1.0",
+    "illuminate/support": ">=6.0",
     "gigablah/sphinxphp": "2.0.8"
   },
   "autoload": {

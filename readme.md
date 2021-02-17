@@ -1,6 +1,6 @@
-Sphinx Search for Laravel 6 - Custom build with snippets support 
+Sphinx Search for Laravel 6-8 - Custom build with snippets support 
 =======================
-Simple Laravel 6 package for make queries to Sphinx Search.
+Simple Laravel 6-8 package for make queries to Sphinx Search.
 Forked from by sngrl/sphinxsearch package for Laravel 5.
 
 This package was created to import to the site packagist.org and allow installation through Composer (https://getcomposer.org/).
@@ -115,4 +115,4 @@ $result = $sphinx->search('my query', 'index_name')
 License
 =======================
 
-Sngrl Sphinx Search is open-sourced software licensed under the MIT license
+Alexsaab Sphinx Search is open-sourced software licensed under the MIT license
